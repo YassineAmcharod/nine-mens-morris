@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1554894941 source:c:\users\yassine amcharod\desktop\jeu moulin\console\interface.c
+	"interface.h"
+	<windows.h>
+
+1554894941 c:\users\yassine amcharod\desktop\jeu moulin\console\interface.h
+
+1554952680 source:c:\users\yassine amcharod\desktop\jeu moulin\projet console\interface.c
+
+1554913688 c:\users\yassine amcharod\desktop\jeu moulin\projet console\interface.h
+
+1556296418 source:c:\users\yassine amcharod\desktop\jeu moulin\projet console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1554952680 source:c:\users\yassine amcharod\desktop\jeu moulin\projet console\fonctions.c
+
+1554914739 c:\users\yassine amcharod\desktop\jeu moulin\projet console\fonctions.h
+
+1554956278 source:e:\new folder\jeu moulin - copie\projet console\fonctions.c
+
+1554956016 e:\new folder\jeu moulin - copie\projet console\interface.h
+
+1554956278 source:e:\new folder\jeu moulin - copie\projet console\interface.c
+
+1554956278 source:e:\new folder\jeu moulin - copie\projet console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1554956102 e:\new folder\jeu moulin - copie\projet console\fonctions.h
+
+1554988680 source:e:\jeu moulin\projet console\fonctions.c
+
+1554988680 source:e:\jeu moulin\projet console\interface.c
+
+1555814082 source:e:\jeu moulin\projet console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1554952680 source:g:\ \jeu moulin\projet console\fonctions.c
+
+1554952680 source:g:\ \jeu moulin\projet console\interface.c
+
+1556460380 source:g:\ \jeu moulin\projet console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1554952680 source:d:\ehtp cours\yassine gi\s2\methode de resolution\jeu moulin\projet console\fonctions.c
+
+1554952680 source:d:\ehtp cours\yassine gi\s2\methode de resolution\jeu moulin\projet console\interface.c
+
+1556795354 source:d:\ehtp cours\yassine gi\s2\methode de resolution\jeu moulin\projet console\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
