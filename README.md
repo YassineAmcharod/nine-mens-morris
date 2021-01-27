@@ -1,5 +1,5 @@
 # nine-mens-morris
-Développement d'une intelligence artificielle pour le jeux Nine Men's Morris avec les algorithme Minimax et Alphabeta, en utilisant la bibliothèque Sdl
+Développement d'une intelligence artificielle pour le jeux Nine Men's Morris avec les algorithme Minimax et Alphabeta, avec une interface graphique (en utilisant la bibliothèque Sdl)
 
 ![02](https://user-images.githubusercontent.com/48087450/105964940-286ac400-6083-11eb-99c8-2c07ce44a4d0.jpg)
 ![04](https://user-images.githubusercontent.com/48087450/105964976-302a6880-6083-11eb-99dc-962495297a9c.jpg)
